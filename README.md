@@ -16,4 +16,4 @@ Fetching & Cleaning active player career data by season from NBA_STATS API (play
 1. player_names.ipynb
     - Will produce player_data.csv
 2. player_stats.ipynb
-    - Will produce player_stats.csv & player_avg_stats.csv
+    - Will produce player_stats.csv & player_avg_stats.csv 
